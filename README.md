@@ -3,7 +3,7 @@
 Welcome to my Github Page!!
 
 ## 🚀 About Me
-I'm a 3rd year student currently pursuing Computer Science Engineering in NHCE Bangalore
+I'm a 3rd year student currently pursuing Computer Science Engineering in NHCE Bangalore.
 Currently in love with Web Development, especially coding in VueJs. Love to code and play the piano. 
   
 ## 🛠 Skills
