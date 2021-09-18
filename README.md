@@ -3,12 +3,12 @@
 
 ## 🚀 About Me
 I'm a 3rd year student currently pursuing Computer Science Engineering in NHCE Bangalore.
-Currently in love with Web Development, especially coding in VueJs. Love to code and play the piano. 
+Currently in love with Web Development. Love to code and play the piano. 
   
 ## 🛠 Skills
 HTML, CSS, Javascript, VueJS, C, C++, Java, Python.
-
 Music Composer and Skilled ABRSM Grade 8 Pianist.
+
 
 - 🔭 I’m currently working on **working on few projects like a Movie/TV Shows Aggregator Website, Playlist creator etc...**
 
