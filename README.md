@@ -10,7 +10,7 @@ HTML, CSS, Javascript, VueJS, C, C++, Java, Python.
 Music Composer and Skilled ABRSM Grade 8 Pianist.
 
 
-- 🔭 I’m currently working on **working on few projects like a Movie/TV Shows Aggregator Website, Playlist creator etc...**
+- 🔭 I’m currently **working on few projects like a Movie/TV Shows Aggregator Website, Playlist creator etc...**
 
 - 🌱 I’m currently learning **VueJS and mastering Javascript**
 
