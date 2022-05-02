@@ -19,7 +19,7 @@ Music Composer and Skilled ABRSM Grade 8 Pianist.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@joeljs10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@joeljs10" height="30" width="40" /></a>
-<a href="https://twitter.com/@joeljs_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joeljs_10" height="30" width="40" /></a>
+<a href="https://twitter.com/joeljs_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joeljs_10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joel-jacob-stephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-jacob-stephen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/joeljacobstephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joeljacobstephen" height="30" width="40" /></a>
 </p>
