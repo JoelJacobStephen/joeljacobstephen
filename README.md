@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Joel Jacob Stephen</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ## 🚀 About Me
-I'm a 3rd year student currently pursuing Computer Science Engineering in NHCE Bangalore.
-Currently in love with Web Development. Love to code and play the piano. 
-  
+I am a 4th year undergraduate pursuing Computer Science Engineering at NHCE Bangalore. 
+Currently working as a Frontend Engineer at Hoppscotch. 
+
+I am a highly motivated developer with a passion for building user-centric and visually compelling applications. Proficient in multiple programming languages and familiar with modern frameworks. Love to be a team player who is motivated to collaborate and contribute to the development of innovative digital experiences. I am always looking to expand my knowledge, skills and stay up-to-date with the latest technologies and trends in the industry. 
+
+I'm also an avid musician who loves to play the piano and produce music whenever I have free time.
+
 ## 🛠 Skills
-HTML, CSS, Javascript, VueJS, C, C++, Java, Python.
+HTML, CSS, Javascript, VueJS, C, C++, Java, C#, Python.
 Music Composer and Skilled ABRSM Grade 8 Pianist.
 
 
@@ -40,7 +44,7 @@ I'm a 3rd year student currently pursuing Computer Science Engineering in NHCE B
 Currently in love with Web Development, especially coding in VueJs. Love to code and play the piano. 
   
 ## 🛠 Skills
-HTML, CSS, Javascript, VueJS, C, C++, Java, Python.
+HTML, CSS, Javascript, VueJS, C, C++, C#, Java, Python.
 
 Music Composer and Skilled ABRSM Grade 8 Pianist.
   
