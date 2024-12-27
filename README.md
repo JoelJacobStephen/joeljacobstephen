@@ -13,7 +13,6 @@ I am a software developer passionate about building high-quality, user-centric s
 ### **AI/ML Enthusiast**  
 - Exploring deep learning, NLP, and computer vision.  
 - Researching how **goal-oriented self-tracking tools** impact behavior and investigating methods to reduce hallucinations in LLMs through proper citations.  
-- Working on the **DB-BERT** project to reimplement and analyze algorithms for database NLP tasks.
 
 ### **Full Stack Development**  
 Built projects like:
