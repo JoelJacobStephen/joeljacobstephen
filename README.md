@@ -44,20 +44,6 @@ I am a software developer passionate about building high-quality, user-centric s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-- **Frontend:** Vue 3 (Composition API), React, Next.js, Nuxt.js, Tailwind CSS  
-- **Backend:** Node.js, Express, Hono, Prisma  
-- **Databases:** PostgreSQL, MongoDB  
-- **Dev Tools:** Vitest, Git, Docker  
-- **AI/ML:** Python, TensorFlow, PyTorch (actively learning)
-
-
-
-## 🌟 **My Vision**
-I aspire to:  
-1. Create scalable software products.  
-2. Transform ideas into startups.  
-3. Innovate in AI and ML to impact lives meaningfully.
-
 
 ## 🌟 **Get in Touch**
 <p align="left">
