@@ -22,32 +22,6 @@ I am a software developer passionate about building high-quality, user-centric s
 
 
 ## 📚 **Tech Stack**
-- **Frontend:** Vue 3 (Composition API), React, Next.js, Nuxt.js, Tailwind CSS  
-- **Backend:** Node.js, Express, Hono, Prisma  
-- **Databases:** PostgreSQL, MongoDB  
-- **Dev Tools:** Vitest, Git, Docker  
-- **AI/ML:** Python, TensorFlow, PyTorch (actively learning)
-
-
-
-## 🌟 **My Vision**
-I aspire to:  
-1. Create scalable software products.  
-2. Transform ideas into startups.  
-3. Innovate in AI and ML to impact lives meaningfully.
-
-
-
-## 🌟 **Get in Touch**
-<p align="left">
-<a href="https://dev.to/@joeljs10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@joeljs10" height="30" width="40" /></a>
-<a href="https://x.com/joeldevtunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joeljs_10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joel-jacob-stephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-jacob-stephen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/joeljacobstephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joeljacobstephen" height="30" width="40" /></a>
-</p>
-
-## 👨‍💻 **I code with: **
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -69,6 +43,28 @@ I aspire to:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+- **Frontend:** Vue 3 (Composition API), React, Next.js, Nuxt.js, Tailwind CSS  
+- **Backend:** Node.js, Express, Hono, Prisma  
+- **Databases:** PostgreSQL, MongoDB  
+- **Dev Tools:** Vitest, Git, Docker  
+- **AI/ML:** Python, TensorFlow, PyTorch (actively learning)
+
+
+
+## 🌟 **My Vision**
+I aspire to:  
+1. Create scalable software products.  
+2. Transform ideas into startups.  
+3. Innovate in AI and ML to impact lives meaningfully.
+
+
+## 🌟 **Get in Touch**
+<p align="left">
+<a href="https://x.com/joeldevtunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joeljs_10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joel-jacob-stephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-jacob-stephen" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/joeljacobstephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joeljacobstephen" height="30" width="40" /></a>
+</p>
 
 
 
