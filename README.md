@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm **Joel Jacob Stephen**
 
-I am a software developer passionate about building high-quality, user-centric software and leveraging technology to create impactful solutions. I thrive on solving complex problems and scaling innovative ideas into reality.
+I love turning ideas into reality, whether it’s crafting elegant user experiences, building robust software, or diving into the fascinating world of software development and AI.
 
 ## 🚀 **What I Do**
 ### **Work** 
