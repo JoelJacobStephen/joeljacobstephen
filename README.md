@@ -3,21 +3,19 @@
 
 I am a software developer passionate about building high-quality, user-centric software and leveraging technology to create impactful solutions. I thrive on solving complex problems and scaling innovative ideas into reality.
 
----
-
 ## 🚀 **What I Do**
-- **Work** 
+- ### **Work** 
   - Frontend Developer at Hoppscotch 
 
-- **Academics**  
-  Currently pursuing my Master's in Computer Science at **The University of Texas at Dallas**, specializing in Artificial Intelligence and Machine Learning.
+- ### **Academics**  
+  - Currently pursuing my Master's in Computer Science at **The University of Texas at Dallas**, specializing in Artificial Intelligence and Machine Learning.
 
-- **AI/ML Enthusiast**  
+- ### **AI/ML Enthusiast**  
   - Exploring deep learning, NLP, and computer vision.  
   - Researching how **goal-oriented self-tracking tools** impact behavior and investigating methods to reduce hallucinations in LLMs through proper citations.  
   - Working on the **DB-BERT** project to reimplement and analyze algorithms for database NLP tasks.
 
-- **Full Stack Development**  
+- ### **Full Stack Development**  
   - Built projects like:
     - **Entertainhub**: A VueJS-powered PWA to explore movies, TV shows, games, and celebrities.  
     - A **coding blog website** using React, Hono, Prisma, and Cloudflare Workers.  
@@ -48,7 +46,7 @@ I aspire to:
 <a href="https://www.leetcode.com/joeljacobstephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joeljacobstephen" height="30" width="40" /></a>
 </p>
 
-## **I code with: **
+## 👨‍💻 **I code with: **
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
