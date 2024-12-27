@@ -4,8 +4,8 @@
 I am a software developer passionate about building high-quality, user-centric software and leveraging technology to create impactful solutions. I thrive on solving complex problems and scaling innovative ideas into reality.
 
 ## 🚀 **What I Do**
-- ### **Work** 
-  - Frontend Developer at Hoppscotch 
+### **Work** 
+- Frontend Developer at Hoppscotch 
 
 - ### **Academics**  
   - Currently pursuing my Master's in Computer Science at **The University of Texas at Dallas**, specializing in Artificial Intelligence and Machine Learning.
@@ -21,7 +21,7 @@ I am a software developer passionate about building high-quality, user-centric s
     - A **coding blog website** using React, Hono, Prisma, and Cloudflare Workers.  
 
 
-## 📚 **Tech Stack**
+## 📚 **I code with**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
