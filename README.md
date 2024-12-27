@@ -5,20 +5,20 @@ I am a software developer passionate about building high-quality, user-centric s
 
 ## 🚀 **What I Do**
 ### **Work** 
-- Frontend Developer at Hoppscotch 
+Frontend Developer at Hoppscotch 
 
-- ### **Academics**  
-  - Currently pursuing my Master's in Computer Science at **The University of Texas at Dallas**, specializing in Artificial Intelligence and Machine Learning.
+### **Academics**  
+Currently pursuing my Master's in Computer Science at **The University of Texas at Dallas**, specializing in Artificial Intelligence and Machine Learning.
 
-- ### **AI/ML Enthusiast**  
-  - Exploring deep learning, NLP, and computer vision.  
-  - Researching how **goal-oriented self-tracking tools** impact behavior and investigating methods to reduce hallucinations in LLMs through proper citations.  
-  - Working on the **DB-BERT** project to reimplement and analyze algorithms for database NLP tasks.
+### **AI/ML Enthusiast**  
+Exploring deep learning, NLP, and computer vision.  
+Researching how **goal-oriented self-tracking tools** impact behavior and investigating methods to reduce hallucinations in LLMs through proper citations.  
+Working on the **DB-BERT** project to reimplement and analyze algorithms for database NLP tasks.
 
-- ### **Full Stack Development**  
-  - Built projects like:
-    - **Entertainhub**: A VueJS-powered PWA to explore movies, TV shows, games, and celebrities.  
-    - A **coding blog website** using React, Hono, Prisma, and Cloudflare Workers.  
+### **Full Stack Development**  
+Built projects like:
+- **Entertainhub**: A VueJS-powered PWA to explore movies, TV shows, games, and celebrities.  
+- A **coding blog website** using React, Hono, Prisma, and Cloudflare Workers.  
 
 
 ## 📚 **I code with**
